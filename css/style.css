@@ -77,3 +77,11 @@ figcaption {
   margin: 0 auto;
   background: #eee;
 }
+
+.col-1 {
+  /*1/3*/  
+}
+
+.col-2 {
+  /*2/3*/
+}
