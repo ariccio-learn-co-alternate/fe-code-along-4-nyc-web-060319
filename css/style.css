@@ -82,13 +82,17 @@ figcaption {
   /*1/3*/  
   float: left;
   width: 32%;
-  background: #ccc
+  background: #ccc;
 }
 
 .col-2 {
   /*2/3*/
+  float: left;
+  width: 66%;
+  background: #ccc;
 }
 
 .col-3 {
   /*entire*/
+  background: #ccc;
 }
